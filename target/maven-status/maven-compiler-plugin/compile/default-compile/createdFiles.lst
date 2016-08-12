@@ -1,0 +1,10 @@
+com\ubisoft\mdm\devops\services\BuildQueueService.class
+com\ubisoft\mdm\devops\enums\JobStatus.class
+com\ubisoft\mdm\devops\queue\JobBean.class
+com\ubisoft\listeners\CustomListener.class
+com\ubisoft\mdm\devops\servlets\CallAnt.class
+com\ubisoft\mdm\devops\servlets\BuildManagerServlet.class
+com\ubisoft\mdm\devops\queue\BuildQueues.class
+com\ubisoft\mdm\devops\servlets\MDMBaseServlet.class
+com\ubisoft\mdm\devops\queue\FailedJobBean.class
+com\ubisoft\mdm\devops\enums\Environments.class
